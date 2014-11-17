@@ -5086,4 +5086,6 @@
     <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
     <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
 
+    <!-- Long-press back kill application -->
+    <string name="app_killed_message">Application killed</string>
 </resources>
